@@ -1,0 +1,8 @@
+{
+    "name": "Node.js Getting Started",
+    "description": "A blood app application",
+    "repository": "https://git.heroku.com/bloodapp.git",
+    "logo": "",
+    "keywords": ["bloodapp"],
+    "image": ""
+}

@@ -1,0 +1,7 @@
+{
+	"port": 3000,
+	"redisPort": 6379,
+	//"dburl": "mongodb://localhost:27017/bloodapp",
+    "dburl": "mongodb://master:master@ds015962.mlab.com:15962/bloodapp",
+	"secretToken": "aMdoeb5ed87zorRdkD6greDML81DcnrzeSD648ferFejmplx"
+}
